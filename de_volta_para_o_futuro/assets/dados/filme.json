@@ -1,0 +1,52 @@
+{
+  "titulo": "De Volta para o Futuro",
+  "ano": "1985",
+  "diretor": "Robert Zemeckis",
+  "sinopse": "Marty McFly, um adolescente de 17 anos, viaja acidentalmente para 1955 em um DeLorean modificado. Para voltar a 1985, ele precisa da ajuda de Doc Brown e deve garantir que seus pais se apaixonem.",
+  "capa": "assets/imagens/capa.png",
+  "site": "https://www.backtothefuture.com/movies/backtothefuture1",
+  "siteElenco": "https://www.backtothefuture.com/movies/credits-1985",
+  "elenco": [
+    {"nome": "Crispin Glover", "personagem": "George McFly", "imagem": "assets/imagens/crispin.png", "link": "https://www.backtothefuture.com/movies/about-the-cast-1985", "tipoLink": "Elenco no site do filme"},
+    {"nome": "Thomas F. Wilson", "personagem": "Biff Tannen", "imagem": "assets/imagens/thomas.png", "link": "https://www.tomwilsonusa.com/", "tipoLink": "Site oficial do ator"},
+    {"nome": "Lea Thompson", "personagem": "Lorraine Baines", "imagem": "assets/imagens/lea.png", "link": "https://www.backtothefuture.com/movies/about-the-cast-1985", "tipoLink": "Elenco no site do filme"},
+    {"nome": "Christopher Lloyd", "personagem": "Dr. Emmett Brown", "imagem": "assets/imagens/christopher.png", "link": "https://www.backtothefuture.com/movies/about-the-cast-1985", "tipoLink": "Elenco no site do filme"},
+    {"nome": "Michael J. Fox", "personagem": "Marty McFly", "imagem": "assets/imagens/michael.png", "link": "https://www.michaeljfox.org/bio/michael-j-fox", "tipoLink": "Biografia na fundação do ator"},
+    {"nome": "Claudia Wells", "personagem": "Jennifer Parker", "imagem": "assets/imagens/claudia.png", "link": "https://www.claudiawells.com/", "tipoLink": "Site oficial da atriz"},
+    {"nome": "James Tolkan", "personagem": "Sr. Strickland", "imagem": "assets/imagens/james.png", "link": "https://www.backtothefuture.com/movies/credits-1985", "tipoLink": "Créditos no site do filme"},
+    {"nome": "Wendie Jo Sperber", "personagem": "Linda McFly", "imagem": "assets/imagens/wendie.png", "link": "https://www.backtothefuture.com/movies/credits-1985", "tipoLink": "Créditos no site do filme"},
+    {"nome": "Billy Zane", "personagem": "Match", "imagem": "assets/imagens/billy.png", "link": "https://www.backtothefuture.com/movies/credits-1985", "tipoLink": "Créditos no site do filme"}
+  ],
+  "secoes": [
+    {
+      "id": "enredo", "titulo": "Enredo", "imagem": "assets/imagens/enredo.png",
+      "itens": [
+        {"titulo": "Uma vida em Hill Valley", "texto": "A história começa em 1985. Marty McFly sonha em tocar numa banda e namora Jennifer Parker. Em casa, seu pai George vive intimidado por Biff Tannen. Marty também é amigo do inventor Emmett Brown, conhecido como Doc."},
+        {"titulo": "Uma viagem inesperada", "texto": "Doc apresenta sua máquina do tempo: um DeLorean equipado com o capacitor de fluxo. Durante o teste, homens armados atacam o cientista. Marty foge no carro, atinge 88 milhas por hora e acaba chegando a 5 de novembro de 1955."},
+        {"titulo": "O encontro com os pais", "texto": "No passado, Marty interfere no primeiro encontro de George e Lorraine. Sua futura mãe se interessa por ele, colocando em risco o nascimento dos filhos do casal. Marty procura o jovem Doc Brown e tenta aproximar seus pais no baile da escola."},
+        {"titulo": "De volta a 1985 — contém spoilers", "texto": "George enfrenta Biff e conquista Lorraine. Para levar Marty de volta, Doc prepara um plano que usa a energia do raio que atingirá a torre do relógio. Marty retorna a 1985, encontra sua família transformada e descobre que Doc sobreviveu ao ataque. No final, o cientista retorna com um novo pedido de ajuda envolvendo o futuro."}
+      ]
+    },
+    {"id": "elenco", "titulo": "Elenco", "imagem": "assets/imagens/elenco.png", "itens": []},
+    {
+      "id": "detalhes", "titulo": "Detalhes", "imagem": "assets/imagens/detalhes.png",
+      "itens": [
+        {"titulo": "Ficha técnica", "texto": "Título original: Back to the Future\nAno: 1985\nPaís: Estados Unidos\nGêneros: aventura, comédia e ficção científica\nDuração: 116 minutos\nDireção: Robert Zemeckis\nRoteiro: Robert Zemeckis e Bob Gale\nProdução: Bob Gale e Neil Canton\nMúsica: Alan Silvestri\nDistribuição: Universal Pictures"},
+        {"titulo": "Twin Pines e Lone Pine", "texto": "Em 1955, Marty derruba um dos dois pinheiros da fazenda de Peabody. Ao retornar, o shopping que se chamava Twin Pines Mall aparece como Lone Pine Mall. A mudança mostra uma consequência de sua passagem pelo passado."},
+        {"titulo": "A pista no relógio", "texto": "Na abertura, um dos relógios mostra uma figura pendurada nos ponteiros. A imagem lembra Harold Lloyd em Safety Last! e antecipa a situação de Doc na torre do relógio."},
+        {"titulo": "Marcas e choque de épocas", "texto": "Lorraine pensa que Marty se chama Calvin Klein ao ler a marca na roupa dele. Na lanchonete, seus pedidos de Tab e Pepsi Free também causam confusão. Essas cenas brincam com diferenças culturais entre 1955 e 1985."},
+        {"titulo": "O reator doméstico", "texto": "No final, Doc retorna com o equipamento Mr. Fusion instalado no DeLorean. Ele coloca resíduos domésticos no aparelho, que fornece energia à máquina do tempo."}
+      ]
+    },
+    {
+      "id": "curiosidades", "titulo": "Curiosidades", "imagem": "assets/imagens/curiosidades.png",
+      "itens": [
+        {"titulo": "A máquina quase foi uma geladeira", "texto": "Os roteiristas chegaram a imaginar uma máquina do tempo dentro de uma geladeira. A ideia foi abandonada, inclusive pelo receio de crianças imitarem a cena. O DeLorean permitia que a máquina se movimentasse."},
+        {"titulo": "Dois trabalhos ao mesmo tempo", "texto": "Michael J. Fox conciliou a produção de Family Ties com as filmagens: trabalhava na série durante o dia e no filme à noite."},
+        {"titulo": "As músicas de Huey Lewis", "texto": "Huey Lewis and the News participou da trilha com The Power of Love e Back in Time. Huey Lewis também aparece como um dos jurados que avaliam a banda de Marty."},
+        {"titulo": "A transformação de Hill Valley", "texto": "A equipe adaptou a praça dos estúdios Universal para representar 1955. Depois, transformou o mesmo cenário para mostrar a cidade em 1985."},
+        {"titulo": "Três DeLoreans", "texto": "A produção modificou três carros DeLorean para o filme. A equipe acrescentou peças e equipamentos para criar a aparência da invenção de Doc Brown."}
+      ]
+    }
+  ]
+}

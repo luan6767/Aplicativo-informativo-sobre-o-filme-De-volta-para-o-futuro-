@@ -1,0 +1,23 @@
+name: de_volta_para_o_futuro
+description: Aplicativo escolar sobre o filme De Volta para o Futuro.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dados/filme.json
+    - assets/imagens/
