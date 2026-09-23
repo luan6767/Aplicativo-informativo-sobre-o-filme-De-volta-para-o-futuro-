@@ -54,11 +54,6 @@ O aplicativo usa `Navigator.push`, `MaterialPageRoute`, `ListView`, `Wrap`, `Car
 
 As cinco telas visuais são montadas por três classes: `TelaInicio`, `TelaElenco` e `TelaConteudo`. Esta última recebe um objeto `Secao` para mostrar Enredo, Detalhes ou Curiosidades. Os textos sobre o filme vêm do JSON; somente rótulos da interface e mensagens de erro ficam no código.
 
-## Antes de entregar
-
-Preencha os nomes, execute o app no seu aparelho e siga [o roteiro de entrega](wiki/Entrega.md). Os arquivos da pasta `wiki` devem ser publicados como páginas na aba Wiki do seu repositório. Estar nesta pasta não os publica automaticamente na Wiki do GitHub.
-
-Os protótipos originais estão identificados como protótipos. Não substituem as capturas da implementação nem o vídeo de navegação pedidos pela atividade.
 
 ## Validação
 
