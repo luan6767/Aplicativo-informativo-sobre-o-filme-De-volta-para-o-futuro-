@@ -2,9 +2,10 @@
 
 ## 1. Nomes dos alunos
 
-- Aluno(a) 1: **PREENCHER**
-- Aluno(a) 2: **PREENCHER**
-- Turma: **PREENCHER**
+- Aluno(a) 1: Luan Henrique Prado dos Santos Donizete
+- Aluno(a) 2: Gustavo Teixeira Marques
+- Aluno(a) 3: Davi Carvalho da silva Clemente
+- Turma: 3 Jogos Digitais
 
 ## 2. Identificação do tema do aplicativo
 
